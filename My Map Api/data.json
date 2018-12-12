@@ -1,0 +1,26 @@
+{
+    "2": {
+        "name": "hello",
+        "address": "L\u00ea Lai, \u0110\u1ecbnh Ho\u00e0, T\u00e2n Uy\u00ean, B\u00ecnh D\u01b0\u01a1ng, Vi\u1ec7t Nam",
+        "lat": "11.054671807766589",
+        "lng": "106.67107736140747"
+    },
+    "3": {
+        "name": "h\u1ed3 than v\u00e3n",
+        "address": "Tr\u01b0\u1eddng Sa, Ph\u00fa M\u1ef9, Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng, Vi\u1ec7t Nam",
+        "lat": "11.046751012182977",
+        "lng": "106.67268786458737"
+    },
+    "4": {
+        "name": "b\u00e1nh kh\u1ecdt binh d\u01b0\u01a1ng",
+        "address": "17 L\u00ea Lai, \u0110\u1ecbnh Ho\u00e0, T\u00e2n Uy\u00ean, B\u00ecnh D\u01b0\u01a1ng, Vi\u1ec7t Nam",
+        "lat": "11.057533578295185",
+        "lng": "106.67513403920896"
+    },
+    "5": {
+        "name": "43",
+        "address": "L\u00f4 G1-9, Khu CN Nam T\u00e2n Uy\u00ean, B\u00ecnh D\u01b0\u01a1ng, \u0110\u1ecbnh Ho\u00e0, Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng, Vi\u1ec7t Nam",
+        "lat": "11.051516956689095",
+        "lng": "106.67078619314577"
+    }
+}
